@@ -1,13 +1,21 @@
-### Hi, I'm Emmanuel 👋
+## Hi, I'm Emmanuel 👋
+
+### About
+   <li>🔭 I’m currently working on a my final year project!</li>
+   <li>🌱 I’m currently learning Android app development</li>
+   <li>👯 I’m looking to collaborate with other developers</li>
+   <li>🥅 2021 Goals: Contribute more to Open Source projects</li>
+   <li>⚡ Fun fact: I love to play instuments and i love the word</li>
 
 ## Github Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=Neba-Emmanuel)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Neba-Emmanuel&theme=dark)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact&theme=dark)
+ 
 
 ### Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="48%" > 
 
-### Top Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact)
+<!-- ### Top Languages
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact&theme=dark) -->
  
 ### Connect with me:
 
