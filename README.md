@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Emmanuel 👋
+x-special/nautilus-clipboard
+copy
+mtp://MediaTek_itel_WSSSNF8SINAUWKOR/Internal%20storage/DCIM/Camera/IMG_20210831_212109_703.jpg
 
 <!--
 **Neba-Emmanuel/Neba-Emmanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
