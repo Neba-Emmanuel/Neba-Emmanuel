@@ -18,7 +18,7 @@
  
 ### Connect with me:
 [![Mail Badge](https://img.shields.io/badge/-nebaemmanuel-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nebaemmanuel736@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-@NebaEmmanuel5-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/NebaEmmanuel5)](https://twitter.com/NJIDANIEL4/) 
+[![Twitter Badge](https://img.shields.io/badge/-@NebaEmmanuel5-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/NebaEmmanuel5)](https://twitter.com/NebaEmmanuel5/) 
 [![Mail Badge](https://img.shields.io/badge/-@nebaemmanuel-405DE6?style=flat&labelColor=5851DB&logo=instagram&logoColor=white)](https://instagram.com/nebaemmanuel)
 
 <!-- <img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> -->
