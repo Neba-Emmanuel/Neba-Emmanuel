@@ -17,6 +17,8 @@
 <!-- ### Top Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact&theme=dark) -->
  
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=Neba-Emmanuel.visitor-badge.issue.1)
+ 
 ### Connect with me:
 
 <!--
