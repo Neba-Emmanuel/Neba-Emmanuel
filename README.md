@@ -19,7 +19,7 @@
  
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 <!-- [twitter]: https://twitter.com/nebaemmanuel5 [gmail]: https://twitter.com/nebaemmanuel736@gmail.com  -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Neba-Emmanuel.visitor-badge.issue.1)
 <!--
