@@ -17,10 +17,10 @@
 <!-- ### Top Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact&theme=dark) -->
  
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Neba-Emmanuel.visitor-badge.issue.4)
- 
 ### Connect with me:
 
+[twitter]: https://twitter.com/nebaemmanuel5 [gmail]: https://twitter.com/nebaemmanuel736@gmail.com 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Neba-Emmanuel.visitor-badge.issue.1)
 <!--
 **Neba-Emmanuel/Neba-Emmanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
