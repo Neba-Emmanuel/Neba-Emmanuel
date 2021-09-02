@@ -19,7 +19,8 @@
  
 ### Connect with me:
 
-[twitter]: https://twitter.com/nebaemmanuel5 [gmail]: https://twitter.com/nebaemmanuel736@gmail.com 
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<!-- [twitter]: https://twitter.com/nebaemmanuel5 [gmail]: https://twitter.com/nebaemmanuel736@gmail.com  -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Neba-Emmanuel.visitor-badge.issue.1)
 <!--
 **Neba-Emmanuel/Neba-Emmanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
