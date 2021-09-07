@@ -8,7 +8,7 @@
    <li>⚡ Fun fact: I love to play instuments and i love the word</li>
 
 ## Github Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=Neba-Emmanuel&theme=dark&count_private=true&show_icons=true&include_all_commits=true)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neba-Emmanuel&layout=compact&theme=dark)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Neba-Emmanuel&theme=dark&count_private=true&show_icons=true&include_all_commits=true)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neba-Emmanuel&layout=compact&theme=dark&langs_count=10)
  
 ### Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="48%" > 
