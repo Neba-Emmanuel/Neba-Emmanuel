@@ -10,6 +10,8 @@
 ## Github Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Neba-Emmanuel&theme=dark)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact&theme=dark)
  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neba-Emmanuel&count_private=true)
+
 
 ### Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="48%" > 
