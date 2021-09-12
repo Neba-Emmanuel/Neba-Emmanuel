@@ -11,7 +11,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Neba-Emmanuel&theme=dark&count_private=true&show_icons=true&include_all_commits=true)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neba-Emmanuel&layout=compact&theme=dark&langs_count=8)
 
 ### Github Streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="48%" > 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Neba-Emmanuel&theme=dark" width="48%" > 
 <!-- ### Top Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact&theme=dark) -->
  
