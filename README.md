@@ -1,7 +1,7 @@
 ## Hi, I'm Emmanuel 👋
 
 ### About
-   <li>🔭 I’m currently working on a my final year project!</li>
+   <li>🔭 I’m currently working on my final year project!</li>
    <li>🌱 I’m currently learning Android app development</li>
    <li>👯 I’m looking to collaborate with other developers</li>
    <li>🥅 2021 Goals: Contribute more to Open Source projects</li>
