@@ -21,21 +21,17 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" height="40" style="vertical-align:top; margin:4px">   
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="linux" height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" alt="arduino" height="40" style="vertical-align:top; margin:4px"> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c" height="40" style="vertical-align:top; margin:4px">  
-<!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Vuejs/vuejs.png" alt="vue.js" height="40" style="vertical-align:top; margin:4px">    -->
-</p>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c" height="40" style="vertical-align:top; margin:4px"> 
 
 ### Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neba-Emmanuel&theme=dark" width="48%" > 
-<!-- ### Top Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact&theme=dark) -->
+
  
 ### Connect with me:
 [![Mail Badge](https://img.shields.io/badge/-nebaemmanuel-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nebaemmanuel736@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@NebaEmmanuel5-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/NebaEmmanuel5)](https://twitter.com/NebaEmmanuel5/) 
 [![Mail Badge](https://img.shields.io/badge/-@nebaemmanuel-405DE6?style=flat&labelColor=5851DB&logo=instagram&logoColor=white)](https://instagram.com/neba.emmanuel.946)
 
-<!-- <img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> -->
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Neba-Emmanuel.visitor-badge.issue.1)
 <!--
