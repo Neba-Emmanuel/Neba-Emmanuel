@@ -29,7 +29,6 @@
 
 ### Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neba-Emmanuel&theme=dark" width="48%" > 
-
  
 ### Connect with me:
 [![Mail Badge](https://img.shields.io/badge/-nebaemmanuel-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nebaemmanuel736@gmail.com)
@@ -38,6 +37,7 @@
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Neba-Emmanuel.visitor-badge.issue.1)
+   
 <!--
 **Neba-Emmanuel/Neba-Emmanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
