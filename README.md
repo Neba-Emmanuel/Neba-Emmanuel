@@ -7,7 +7,7 @@
    <li>🥅 2021 Goals: Contribute more to Open Source projects</li>
    <li>⚡ Fun fact: I love to play instuments and i love the word</li>
 
-## Github Stats
+## 🔭 Github Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Neba-Emmanuel&theme=dark&count_private=true&show_icons=true&include_all_commits=true)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neba-Emmanuel&layout=compact&theme=dark&langs_count=9)
 
 
@@ -27,10 +27,10 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" height="40" style="vertical-align:top; margin:4px">    
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/>   
 
-### Github Streaks
+### 📆 Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neba-Emmanuel&theme=dark" width="48%" > 
  
-### Connect with me:
+### 💻 Connect with me:
 [![Mail Badge](https://img.shields.io/badge/-nebaemmanuel-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nebaemmanuel736@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@NebaEmmanuel5-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/NebaEmmanuel5)](https://twitter.com/NebaEmmanuel5/) 
 [![Mail Badge](https://img.shields.io/badge/-@nebaemmanuel-405DE6?style=flat&labelColor=5851DB&logo=instagram&logoColor=white)](https://instagram.com/neba.emmanuel.946)
