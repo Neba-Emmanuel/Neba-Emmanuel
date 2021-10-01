@@ -1,6 +1,6 @@
 ## Hi, I'm Emmanuel 👋
 
-### About
+### 📕 About
    <li>🔭 I’m currently working on my final year project!</li>
    <li>🌱 I’m currently learning Android app development</li>
    <li>👯 I’m looking to collaborate with other developers</li>
