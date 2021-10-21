@@ -2,7 +2,7 @@
 
 ### 📕 About
    <li>🔭 I’m currently working on my final year project!</li>
-   <li>🌱 I’m currently learning Android app development</li>
+   <li>🌱 I’m currently learning Nuxt </li>
    <li>👯 I’m looking to collaborate with other developers</li>
    <li>🥅 2021 Goals: Contribute more to Open Source projects</li>
    <li>⚡ Fun fact: I love JavaScript :blush:</li>
