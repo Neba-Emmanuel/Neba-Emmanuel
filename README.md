@@ -28,7 +28,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/>   
 
 ### 📆 Github Streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Neba-Emmanuel&theme=dark" width="48%" > 
+<img src="https://github-readme-streak-stats.herokuapp.com/?username=Neba-Emmanuel&theme=dark" width="48%" > 
  
 ### 💻 Connect with me:
 [![Mail Badge](https://img.shields.io/badge/-nebaemmanuel-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nebaemmanuel736@gmail.com)
