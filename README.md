@@ -8,7 +8,7 @@
    <li>⚡ Fun fact: I love JavaScript :blush:</li>
 
 ## ⏲️ Github Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=Neba-Emmanuel&count_private=true&show_icons=true&include_all_commits=true)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neba-Emmanuel&layout=compact&theme=dark&langs_count=9)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Neba-Emmanuel&count_private=true&show_icons=true&theme=onedark&include_all_commits=true)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neba-Emmanuel&layout=compact&theme=dark&langs_count=9)
 
 
 ## 🧰 Languages and Tools:
