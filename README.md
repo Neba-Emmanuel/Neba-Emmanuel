@@ -8,7 +8,7 @@
    <li>⚡ Fun fact: I love JavaScript :blush:</li>
 
 ## ⏲️ Github Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=Neba-Emmanuel&count_private=true&show_icons=true&theme=onedark&include_all_commits=true)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neba-Emmanuel&layout=compact&theme=dark&langs_count=9)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Neba-Emmanuel&count_private=true&show_icons=true&theme=onedark&include_all_commits=true)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neba-Emmanuel&layout=compact&theme=onedark&langs_count=9)
 
 
 ## 🧰 Languages and Tools:
@@ -28,7 +28,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/>   
 
 ### 📆 Github Streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Neba-Emmanuel&theme=dark" width="48%" > 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Neba-Emmanuel&theme=onedark" width="48%" > 
  
 ### 💻 Connect with me:
 [![Mail Badge](https://img.shields.io/badge/-nebaemmanuel-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nebaemmanuel736@gmail.com)
