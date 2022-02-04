@@ -11,7 +11,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Neba-Emmanuel&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neba-Emmanuel&layout=compact&theme=dracula&langs_count=9)
 
 
-## 🧰 Languages and Tools:
+## 📖 Languages and Tools:
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/>
