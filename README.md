@@ -6,6 +6,7 @@
    <li>👯 I’m looking to collaborate with other developers</li>
    <li>🥅 2022 Goal: To Contribute more to Open Source Projects</li>
    <li>⚡ Fun fact: I love JavaScript :blush:</li>
+   <li> Consistency is the key </li>
 
 ## ⏲️ Github Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Neba-Emmanuel&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neba-Emmanuel&layout=compact&theme=dracula&langs_count=9)
