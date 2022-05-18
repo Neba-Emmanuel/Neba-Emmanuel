@@ -5,7 +5,7 @@
    <li>🌱 I’m currently learning Nuxt.js </li>
    <li>👯 I’m looking to collaborate with other developers</li>
    <li>🥅 2022 Goal: To Contribute more to Open Source Projects</li>
-   <li>⚡ Fun fact: I love JavaScript :blush:</li>
+   <li>⚡ Fun fact: I love JavaScript :blush: </li>
    <li> :octocat: Consistency is the key :key: </li>
 
 ## ⏲️ Github Stats
