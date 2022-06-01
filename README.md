@@ -1,4 +1,4 @@
-## Hi, I'm Emmanuel 👋
+# Hi, I'm Emmanuel 👋
 
 ## 📕 About
    <li>🔭 I’m currently working on my final year project </li>
