@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.upwork.com/freelancers/~016cf3196972e29183">
     <img src="https://img.shields.io/badge/Upwork-green?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Badge"/>
   </a>
   <a href="https://instagram.com/neba.emmanuel.946">
