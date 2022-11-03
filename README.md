@@ -2,7 +2,28 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-# Hi, I'm Emmanuel 👋
+<div id="badges" align="center">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/NebaEmmanuel5/">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Neba-Emmanuel&style=flat-square&color=blue" alt=""/>
+ </div>
+ 
+<div align="center">
+  
+  # Hi, I'm Emmanuel 👋
+  
+</div>
 
 ## 📕 About
    <li>🔭 I’m currently working on my final year project </li>
@@ -32,14 +53,14 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/>   
 
 ## 📆 Github Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Neba-Emmanuel&theme=dracula" width="48%" > 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Neba-Emmanuel&theme=dracula)](https://git.io/streak-stats)
  
-## 💻 Connect with me:
+<!-- ## 💻 Connect with me:
 [![Mail Badge](https://img.shields.io/badge/-nebaemmanuel-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nebaemmanuel736@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@NebaEmmanuel5-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/NebaEmmanuel5)](https://twitter.com/NebaEmmanuel5/) 
-[![Mail Badge](https://img.shields.io/badge/-@nebaemmanuel-405DE6?style=flat&labelColor=5851DB&logo=instagram&logoColor=white)](https://instagram.com/neba.emmanuel.946)
+[![Mail Badge](https://img.shields.io/badge/-@nebaemmanuel-405DE6?style=flat&labelColor=5851DB&logo=instagram&logoColor=white)](https://instagram.com/neba.emmanuel.946) -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Neba-Emmanuel.visitor-badge.issue.1)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Neba-Emmanuel.visitor-badge.issue.1) -->
    
 <!--
 **Neba-Emmanuel/Neba-Emmanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
