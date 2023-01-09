@@ -21,7 +21,7 @@
  
 <div align="center">
   
-  # Hi, I'm Emmanuel 👋
+  # Hi, I'm Emmanuel👋
   
 </div>
 
