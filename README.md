@@ -26,7 +26,7 @@
 
 ## 📕 About
    <li>🔭 I’m currently working on my final year project </li>
-   <li>🌱 I’m currently learning MERN </li>
+   <li>🌱 I’m currently learning automation testing </li>
    <li>👯 I’m looking to collaborate with other developers </li>
    <li>🥅 2023 Goal: To Contribute more to Open Source Projects </li>
    <li>⚡ Fun fact: I love JavaScript </li>
