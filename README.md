@@ -58,6 +58,6 @@
 
 ## 📆 Github Streak
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Neba-Emmanuel&theme=dracula)](https://git.io/streak-stats)
-<p>
+
+## 📆 Github Stat
 ![snake gif](https://github.com/Neba-Emmanuel/Neba-Emmanuel/blob/output/github-contribution-grid-snake.gif)
-</p>
