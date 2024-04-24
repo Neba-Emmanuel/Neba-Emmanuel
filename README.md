@@ -20,20 +20,15 @@
  
 <div align="center">
   
-  # Hi, I'm Emmanuel👋
+  # Hi, I'm Neba Emmanuel👋
   
 </div>
 
 ## 📕 About
    <li>🔭 I’m currently working on my final year project </li>
-   <li>🌱 I’m currently learning automation testing </li>
    <li>👯 I’m looking to collaborate with other developers </li>
-   <li>🥅 2023 Goal: To Contribute more to Open Source Projects </li>
-   <li>⚡ Fun fact: I love JavaScript </li>
+   <li>🥅 2024 Goal: To Contribute more to Open Source Projects </li>
    <li> :octocat: Consistency is the key </li>
-
-## ⏲️ Github Stats 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neba-Emmanuel&layout=compact&theme=dracula&langs_count=9)
 
 ## 📖 Languages and Tools:
 <p align="left">
