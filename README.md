@@ -29,6 +29,9 @@
    <li>👯 I’m looking to collaborate with other developers </li>
    <li>🥅 2024 Goal: To Contribute more to Open Source Projects </li>
    <li> :octocat: Consistency is the key </li>
+   
+## ⏲️ Github Stats 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neba-Emmanuel&layout=compact&theme=dracula&langs_count=9)
 
 ## 📖 Languages and Tools:
 <p align="left">
@@ -54,5 +57,3 @@
 ## 📆 Github Streak
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Neba-Emmanuel&theme=dracula)](https://git.io/streak-stats)
 
-## 📆 Github Stat
-![snake gif](https://github.com/Neba-Emmanuel/Neba-Emmanuel/blob/output/github-contribution-grid-snake.gif)
