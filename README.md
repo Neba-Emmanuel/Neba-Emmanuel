@@ -25,10 +25,9 @@
 </div>
 
 ## 📕 About
-   <li>🔭 I’m currently working on my final year project </li>
+   <li>🔭Neba Emmanuel is an adept developer specializing in technologies like React, React Native, Vue for crafting user interfaces and mobile apps. My expertise extends to backend     
+   development using NodeJS and Express, with skills in MongoDB and MySQL for efficient data management. </li>
    <li>👯 I’m looking to collaborate with other developers </li>
-   <li>🥅 2024 Goal: To Contribute more to Open Source Projects </li>
-   <li> :octocat: Consistency is the key </li>
    
 ## ⏲️ Github Stats 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neba-Emmanuel&layout=compact&theme=dracula&langs_count=9)
