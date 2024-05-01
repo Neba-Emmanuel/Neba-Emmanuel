@@ -25,9 +25,9 @@
 </div>
 
 ## 📕 About
-   <li>🔭Neba Emmanuel is an adept developer specializing in technologies like React, React Native, Vue for crafting user interfaces and mobile apps. My expertise extends to backend     
+   <li>Neba Emmanuel is an adept developer specializing in technologies like React, React Native, Vue for crafting user interfaces and mobile apps. My expertise extends to backend     
    development using NodeJS and Express, with skills in MongoDB and MySQL for efficient data management. </li>
-   <li>👯 I’m looking to collaborate with other developers </li>
+   <li>I’m looking forward to collaborate with other developers </li>
    
 ## ⏲️ Github Stats 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neba-Emmanuel&layout=compact&theme=dracula&langs_count=9)
