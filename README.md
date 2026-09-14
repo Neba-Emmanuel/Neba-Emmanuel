@@ -25,9 +25,13 @@
 </div>
 
 ## 📕 About
-   <li>Neba Emmanuel is an adept developer specializing in technologies like React, React Native, Vue for crafting user interfaces and mobile apps. My expertise extends to backend     
-   development using NodeJS and Express, with skills in MongoDB and MySQL for efficient data management. </li>
-   <li>I’m looking forward to collaborate with other developers </li>
+I'm a Software Engineer building web, mobile and backend systems.
+
+I work across the product stack—from user-facing applications with React, Next.js and React Native to backend services, APIs, databases and third-party integrations.
+
+Much of my recent work has involved solving real production problems around payments, messaging, authentication, delivery workflows and business automation.
+
+Beyond writing code, I'm increasingly interested in system design, engineering decisions, developer education and building technology around African realities.
    
 ## ⏲️ Github Stats 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neba-Emmanuel&layout=compact&theme=dracula&langs_count=9)
