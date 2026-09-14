@@ -32,9 +32,6 @@ I work across the product stack—from user-facing applications with React, Next
 Much of my recent work has involved solving real production problems around payments, messaging, authentication, delivery workflows and business automation.
 
 Beyond writing code, I'm increasingly interested in system design, engineering decisions, developer education and building technology around African realities.
-   
-## ⏲️ Github Stats 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neba-Emmanuel&layout=compact&theme=dracula&langs_count=9)
 
 ## 📖 Languages and Tools:
 <p align="left">
