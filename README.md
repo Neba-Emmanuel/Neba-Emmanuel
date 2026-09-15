@@ -3,14 +3,14 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.upwork.com/freelancers/~016cf3196972e29183">
-    <img src="https://img.shields.io/badge/Upwork-green?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Badge"/>
+  <a href="https://www.facebook.com/share/1BpUGiYUxE/?mibextid=wwXIfr">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook Badge"/>
   </a>
   <a href="https://instagram.com/neba.emmanuel.946">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://twitter.com/NebaEmmanuel5/">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://www.linkedin.com/in/neba-emmanuel-web-mobile-developer/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin Badge"/>
   </a>  
 </div>
 
